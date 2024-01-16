@@ -35,3 +35,4 @@ npx http-server build/client/
 ```
 
 [remix-vite-docs]: https://remix.run/docs/en/main/future/vite
+# remix-as-spa
